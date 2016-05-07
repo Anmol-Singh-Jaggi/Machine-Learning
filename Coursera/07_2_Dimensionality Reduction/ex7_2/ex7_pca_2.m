@@ -18,7 +18,7 @@
 
 %% Initialization
 clear ; close all; clc;
-addpath('../ex7_1');
+addpath('../../07_1_Clustering/ex7_1');
 
 
 
