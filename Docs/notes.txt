@@ -1,0 +1,11 @@
+To understant Covariance matrix visually, watch 15_07
+Model parameters vs weights -:
+ Model parameters are random initially and are optimized using algo.
+ Weights are chosen and are assumed to be optimal before even starting the algorithm.
+
+Example of parameters - The number of hidden layers in ANN
+                        threshold error in anomaly detection
+                        'C' in SVM
+
+Weights are the 'theta' in the algorithm.
+In case of anomaly detection, mu and sigma.
