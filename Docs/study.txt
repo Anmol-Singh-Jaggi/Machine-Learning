@@ -1,0 +1,10 @@
+Probability
+Statistics
+ Variance
+ Bias
+Calculus
+Linear algebra
+ Eigenvectors/Eigenvalues
+ Covariance matrix
+ Inverse
+ Singular value decomposition
